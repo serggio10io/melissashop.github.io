@@ -165,7 +165,7 @@ td{
     
     .header-txt h1{
         font-size: 35px;
-        margin-right: 70px;
+        margin-right: 120px;
         margin-left: 0px;
     }
     
@@ -178,7 +178,7 @@ td{
     .header-txt p {
         padding: 0;
         margin: 15px 0;
-        font-size: 25px;
+        font-size: 15px;
         margin-right: 60px;
     } 
     
